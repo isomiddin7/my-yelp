@@ -1,1 +1,0 @@
-demo version : "https://main.d4o88wdwjwm40.amplifyapp.com/"
